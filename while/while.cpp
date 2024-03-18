@@ -17,4 +17,4 @@ int main() {
 
     }
 
-    cout << "Nilai x Akhir = " << x << endl
+    cout << "Nilai x Akhir = " << x << endl;
